@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+sentence_transformers
+Flask
+flask-cors
